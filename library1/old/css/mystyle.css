@@ -1,0 +1,266 @@
+
+/*========= Register================================*/
+.re_header{
+	margin:0 auto;
+	padding:10px 0px;
+	width:530px;
+	text-align:center;
+	background:#F1F1F1;
+	border:1px solid#ececec;
+	margin-top:15px;
+	margin-bottom:10px;
+	color:#146C1E;
+	font-size:20px;
+	}
+.re_message{
+	margin:0 auto;
+	width:530px;
+	text-align:center;
+	margin-top:10px;
+	margin-bottom:10px;
+	color:#009;
+	}
+.re_content{
+	margin:0 auto;
+	width:530px;
+	border:1px solid#ccc;
+	background:#F1F1F1;
+	margin-bottom:10px;
+	}
+.re_content .re_input{
+	padding:15px 15px 5px 10px;
+	}
+.re_content .re_input input{
+	width:477px;
+	padding:8px 0px 8px 30px;
+	border-radius:3px;
+	border:1px solid#ddd;
+	}
+	
+.re_content .re_input .form-control {
+  
+    width: 95%;
+}
+.re_content .re_input textarea{
+	width:477px;
+	height:120px;
+	padding:8px 0px 8px 30px;
+	border-radius:3px;
+	border:1px solid#ddd;
+	}
+#re_name{
+	margin-top:10px;
+	position:absolute;
+	margin-left:10px;
+	}
+.re_content .re_submit{
+	padding:15px 0px 5px 10px;
+	}
+.re_content .re_submit input{
+	width:100px;
+	padding:8px 0px;
+	border-radius:3px;
+	border:0px;
+	background:#146C1E;
+	color:#fff;
+	cursor:pointer;
+	}
+.re_content .re_submit a{
+	border:1px solid#ccc;
+	padding:9px 25px;
+	text-decoration:none;
+	margin-left:20px;
+	background:#146C1E;
+	color:#fff;
+	font-size:14px;
+	border-radius:3px;
+	border:0px;
+	}
+
+
+/*========= Profile ================================*/
+
+.profile {
+	
+	
+	}
+.change {	width:120px;
+	padding:8px 5px;
+	border-radius:3px;
+	border:0px;
+	background:#146C1E;
+	color:#fff;
+	cursor:pointer;
+	margin-top:-20px;}
+	
+.profile_view a {width:auto;
+	padding:10px 32px;
+	border-radius:3px;
+	border:0px;
+	background:#146C1E;
+	color:#fff;
+	cursor:pointer;}
+.profile_view a:hover { text-decoration: none;}
+
+
+.blog-form-submit-cv {
+    background: #EFEFEF;
+    margin-bottom: 20px;
+    padding: 0 0 1px;
+}
+
+.register-cv {
+    font-size: 24px;
+    color: #FFF;
+    background: #00adef;
+    margin-bottom: 20px;
+    font-weight: 700;
+    padding: 5px;
+	margin-top: 20px;
+}
+.register-cv {
+    text-align: center;
+}
+
+.my-cv-register {
+	background:#EFEFEF;
+	    padding-bottom: 20px;
+	}
+	
+	
+.my-job-detail-image img{max-width:256px;max-height:150px;margin:0 auto;}
+.my-job-detail label{
+		padding:3px 0;
+		font-weight:bold;
+	}
+.my-job-detail p{
+		padding:3px 0;
+	}
+
+
+.my-job-detail-body label{
+		padding:5px 0;
+		font-weight:200;
+	}
+.my-job-detail-body p{
+		padding:0;
+	}
+
+.my-job-detail-body-left {
+	background:#428BCA;
+	color:#FFF;
+	}
+.text-center {
+    text-align: center;
+}
+
+.title_job_detaill {
+    font-size: 22px;
+	border-top: 5px solid #428BCA;
+	padding-top: 30px;
+}
+
+.border_grey {
+    border: 1px solid #999;
+    border-radius: 3px;
+	padding:10px;
+	margin-bottom: 15px;
+
+}
+.border_blue {
+    border: 1px solid #428BCA;
+    border-radius: 3px;
+	padding:10px;
+	margin-bottom: 15px;
+	min-height:260px;
+}
+
+.text-left {
+    text-align: left;
+}
+.title_job_detaill_break {
+	font-size: 18px;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	margin-left: 25px;
+}
+.my-wrapper { border-bottom: 1px solid #EFEFEF;padding: 10px 0;}
+
+.my-wrapper:hover { background:#f7f7f7;}
+
+.my-wrapper a { text-decoration:none; color: #333; }
+.top-job-right img { width: 50px !important; height:50px !important;float: right;}
+
+.top-job-left { background-color: red;
+
+
+width: 60px;
+
+margin-top: -20px;
+padding: 2px 3px !important;
+display: inline-block;
+
+padding: 3px 7px;
+font-size: 12px;
+font-weight: bold;
+color: #fff;
+
+vertical-align: middle;
+
+text-align: center;
+}
+
+.top-job-left-blue { background-color: #125185;
+
+
+width: 60px;
+
+margin-top: -20px;
+padding: 2px 3px !important;
+display: inline-block;
+
+padding: 3px 7px;
+font-size: 12px;
+font-weight: bold;
+color: #fff;
+
+vertical-align: middle;
+
+text-align: center;
+}
+
+.top-job-left-gray { background-color: #999;
+
+
+width: 60px;
+
+margin-top: -20px;
+padding: 2px 3px !important;
+display: inline-block;
+
+padding: 3px 7px;
+font-size: 12px;
+font-weight: bold;
+color: #fff;
+
+vertical-align: middle;
+
+text-align: center;
+}
+
+
+.top-job-middle { 
+font-weight: bold;
+font-size: 14px;
+margin-bottom: 5px;
+line-height: 19px;
+display: inline-block;
+margin: 0 10px;
+
+}
+.top-job-middle-sub {
+    font-weight: 200;
+    font-size: 12px;
+    line-height: 19px;
+}
+

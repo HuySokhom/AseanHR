@@ -1,0 +1,114 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+/********* header ***********/
+.header_top{	
+	background:#782B91;
+	padding:5px;
+}
+.header-top-right{
+	float:right;
+}
+.header_logo{
+	width:100%;
+	/*padding:1px 0px;*/
+	margin-bottom:0px;
+	background:#fff;
+}
+a.logo{
+	float:left;
+	display:block;
+	margin:10px 0px;
+}
+a.logo img{
+	width:137px;
+}
+img.logo-title{
+	float:left;
+	width:342px;
+	margin-left:20px;
+	margin-top:30px;
+}
+.info-service{
+	float:right;
+	text-align:center;
+	margin-top:29px;
+	color:#777;
+	letter-spacing:2px;
+	font-size:18px;
+}
+.back_header{
+	background-image:url(../../image/Home.jpg);
+	background-position: right;
+	background-repeat:no-repeat;
+}
+.language{
+	float:right;
+	text-align:right;
+	display:block;
+	width:385px;
+	margin-top:20px;
+}
+.language ul{
+	list-style:none;
+	display:inline-table;
+	margin:0;
+	padding:0;
+}
+.language ul li{
+	float:left;
+	margin-left:20px;
+}
+.language ul li a{
+	text-decoration:none;
+	outline:none;
+	display:block;
+	color:#9C59B8;
+}
+.language ul li a img{
+	width:30px;
+}
+.language ul li a span{
+	margin-left:10px;
+	color:#9C59B8;
+	font-size:12px;
+}
+.language span{
+	letter-spacing:2px;
+	font-size:11px;
+	color:#F1C40F;
+}
+.language ul li:nth-child(4){
+	margin-left:0px;
+}
+
+/********* Login box ***********/
+.login_box{
+	float:left;
+}
+.login_box a{
+	background:#;
+	color:#F1C40F;
+	padding:0px 25px;
+	font-size:10px;
+	text-decoration:none;
+	outline:none;
+}
+.login_box a:hover{
+	color:#FfF;
+}
+#loginContainer {
+    position:relative;
+	display: block;
+}
+
+.login_box ul li {
+    list-style-type: none;
+    display: inline;
+    padding: 0px;
+    color: #fff;
+    font-size: 15px;
+    cursor: pointer;
+}
+

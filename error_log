@@ -1,0 +1,6 @@
+[17-Oct-2016 22:47:04 America/Denver] PHP Fatal error:  Call to a member function compate_api_id() on null in /home2/ttibizco/public_html/demo/application/controllers/Login_controller.php on line 302
+[17-Oct-2016 22:52:18 America/Denver] PHP Fatal error:  Call to a member function compate_api_id() on null in /home2/ttibizco/public_html/demo/application/controllers/Login_controller.php on line 302
+[17-Oct-2016 22:59:59 America/Denver] PHP Fatal error:  Call to a member function compate_api_id() on null in /home2/ttibizco/public_html/demo/application/controllers/Login_controller.php on line 302
+[17-Oct-2016 23:00:42 America/Denver] PHP Fatal error:  Call to a member function compate_api_id() on null in /home2/ttibizco/public_html/demo/application/controllers/Login_controller.php on line 302
+[17-Oct-2016 23:04:29 America/Denver] PHP Fatal error:  Call to a member function compate_api_id() on null in /home2/ttibizco/public_html/demo/application/controllers/Login_controller.php on line 333
+[17-Oct-2016 23:12:08 America/Denver] PHP Fatal error:  Call to a member function select_all_users() on null in /home2/ttibizco/public_html/demo/application/controllers/Login_controller.php on line 424
